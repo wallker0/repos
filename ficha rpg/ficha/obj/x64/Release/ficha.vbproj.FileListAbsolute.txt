@@ -1,0 +1,10 @@
+C:\Users\wallker\source\repos\ficha\ficha\bin\x64\Release\ficha.exe.config
+C:\Users\wallker\source\repos\ficha\ficha\bin\x64\Release\ficha.exe
+C:\Users\wallker\source\repos\ficha\ficha\bin\x64\Release\ficha.pdb
+C:\Users\wallker\source\repos\ficha\ficha\bin\x64\Release\ficha.xml
+C:\Users\wallker\source\repos\ficha\ficha\obj\x64\Release\ficha.Resources.resources
+C:\Users\wallker\source\repos\ficha\ficha\obj\x64\Release\ficha.vbproj.GenerateResource.cache
+C:\Users\wallker\source\repos\ficha\ficha\obj\x64\Release\ficha.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\ficha\ficha\obj\x64\Release\ficha.exe
+C:\Users\wallker\source\repos\ficha\ficha\obj\x64\Release\ficha.xml
+C:\Users\wallker\source\repos\ficha\ficha\obj\x64\Release\ficha.pdb

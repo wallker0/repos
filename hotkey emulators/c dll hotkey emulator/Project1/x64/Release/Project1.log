@@ -1,0 +1,6 @@
+﻿  maindll.cpp
+C:\Users\wallker\source\repos\repos\Project1\Project1\maindll.cpp(1,10): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  MyForm.cpp
+C:\Users\wallker\source\repos\repos\Project1\Project1\MyForm.h(7,10): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...

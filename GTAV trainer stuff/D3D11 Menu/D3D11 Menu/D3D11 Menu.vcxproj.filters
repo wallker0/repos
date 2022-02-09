@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="cMenu">
+      <UniqueIdentifier>{2db724d7-8cae-40ea-9e10-ed040747f5b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="REnder">
+      <UniqueIdentifier>{723e4579-cafa-4db8-b999-a9e6112c27b1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="NativeInvoker.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooking.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="JBMenu.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Memory.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CrossMapping.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1Factory.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1FactoryInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1FontWrapper.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1FontWrapperInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphAtlas.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphAtlasInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphProvider.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphProviderInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphRenderStates.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphRenderStatesInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphSheet.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphSheetInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphVertexDrawer.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphVertexDrawerInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1StateSaver.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1TextGeometry.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1TextGeometryInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1TextRenderer.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1TextRendererInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\FW1FontWrapper.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\FW1Precompiled.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1ColorRGBA.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1ColorRGBAInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1DWriteRenderTarget.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1DWriteRenderTargetInterface.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="JBMenu.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="nativeCaller.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="types.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="NativeInvoker.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooking.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="natives.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="CrossMapping.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>cMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1Factory.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1FontWrapper.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphAtlas.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphProvider.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphRenderStates.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphSheet.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphVertexDrawer.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1Object.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1StateSaver.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1TextGeometry.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1TextRenderer.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\FW1CompileSettings.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\FW1FontWrapper.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\FW1Precompiled.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1ColorRGBA.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1DWriteRenderTarget.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="BeaEngine\include\BeaEngine.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="BeaEngine\include\Includes\export.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+    <ClInclude Include="BeaEngine\include\Includes\basic_types.h">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="BeaEngine64.lib">
+      <Filter>Ressourcendateien</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

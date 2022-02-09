@@ -1,0 +1,11 @@
+C:\Users\wallker\source\repos\menu\menu\bin\Debug\menu.exe.config
+C:\Users\wallker\source\repos\menu\menu\bin\Debug\menu.exe
+C:\Users\wallker\source\repos\menu\menu\bin\Debug\menu.pdb
+C:\Users\wallker\source\repos\menu\menu\bin\Debug\menu.xml
+C:\Users\wallker\source\repos\menu\menu\obj\Debug\menu.vbprojResolveAssemblyReference.cache
+C:\Users\wallker\source\repos\menu\menu\obj\Debug\menu.Resources.resources
+C:\Users\wallker\source\repos\menu\menu\obj\Debug\menu.vbproj.GenerateResource.Cache
+C:\Users\wallker\source\repos\menu\menu\obj\Debug\menu.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\menu\menu\obj\Debug\menu.exe
+C:\Users\wallker\source\repos\menu\menu\obj\Debug\menu.xml
+C:\Users\wallker\source\repos\menu\menu\obj\Debug\menu.pdb

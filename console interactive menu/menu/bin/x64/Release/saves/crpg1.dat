@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clsPerson xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>wlkr</name>
+  <hpt>20938</hpt>
+  <hpa>20938</hpa>
+  <level>12</level>
+  <faith>12</faith>
+  <city>ldb</city>
+  <forca>7</forca>
+  <con>13</con>
+  <des>8</des>
+  <agi>11</agi>
+  <int>8</int>
+  <will>8</will>
+  <per>10</per>
+  <car>14</car>
+  <idade>18</idade>
+  <xpt>204800</xpt>
+  <xpa>168967</xpa>
+  <dano>2260</dano>
+  <danototal>2280</danototal>
+  <heal>2291</heal>
+  <cash>2189</cash>
+  <mhpt>193012</mhpt>
+  <mhpa>12942</mhpa>
+  <mdmg>2264</mdmg>
+</clsPerson>

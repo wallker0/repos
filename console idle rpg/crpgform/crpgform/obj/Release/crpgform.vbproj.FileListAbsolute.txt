@@ -1,0 +1,11 @@
+c:\users\wallker\source\repos\crpgform\crpgform\bin\Release\crpgform.exe.config
+c:\users\wallker\source\repos\crpgform\crpgform\bin\Release\crpgform.exe
+c:\users\wallker\source\repos\crpgform\crpgform\bin\Release\crpgform.pdb
+c:\users\wallker\source\repos\crpgform\crpgform\bin\Release\crpgform.xml
+c:\users\wallker\source\repos\crpgform\crpgform\obj\Release\crpgform.Form1.resources
+c:\users\wallker\source\repos\crpgform\crpgform\obj\Release\crpgform.Resources.resources
+c:\users\wallker\source\repos\crpgform\crpgform\obj\Release\crpgform.vbproj.GenerateResource.Cache
+c:\users\wallker\source\repos\crpgform\crpgform\obj\Release\crpgform.vbproj.CoreCompileInputs.cache
+c:\users\wallker\source\repos\crpgform\crpgform\obj\Release\crpgform.exe
+c:\users\wallker\source\repos\crpgform\crpgform\obj\Release\crpgform.xml
+c:\users\wallker\source\repos\crpgform\crpgform\obj\Release\crpgform.pdb

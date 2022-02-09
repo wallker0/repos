@@ -1,0 +1,11 @@
+C:\Users\wallker\source\repos\wallet\ficha\bin\x64\Release\wallet.exe.config
+C:\Users\wallker\source\repos\wallet\ficha\bin\x64\Release\wallet.exe
+C:\Users\wallker\source\repos\wallet\ficha\bin\x64\Release\wallet.pdb
+C:\Users\wallker\source\repos\wallet\ficha\bin\x64\Release\wallet.xml
+C:\Users\wallker\source\repos\wallet\ficha\obj\x64\Release\wallet.Resources.resources
+C:\Users\wallker\source\repos\wallet\ficha\obj\x64\Release\wallet.vbproj.GenerateResource.cache
+C:\Users\wallker\source\repos\wallet\ficha\obj\x64\Release\wallet.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\wallet\ficha\obj\x64\Release\wallet.exe
+C:\Users\wallker\source\repos\wallet\ficha\obj\x64\Release\wallet.xml
+C:\Users\wallker\source\repos\wallet\ficha\obj\x64\Release\wallet.pdb
+C:\Users\wallker\source\repos\wallet\ficha\obj\x64\Release\wallet.vbproj.AssemblyReference.cache

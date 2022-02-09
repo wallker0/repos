@@ -1,0 +1,31 @@
+﻿  FW1Precompiled.cpp
+  FW1FontWrapper.cpp
+  CFW1TextRendererInterface.cpp
+  CFW1TextRenderer.cpp
+  CFW1TextGeometryInterface.cpp
+  CFW1TextGeometry.cpp
+  CFW1StateSaver.cpp
+  CFW1GlyphVertexDrawerInterface.cpp
+  CFW1GlyphVertexDrawer.cpp
+  CFW1GlyphSheetInterface.cpp
+  CFW1GlyphSheet.cpp
+  CFW1GlyphRenderStatesInterface.cpp
+  CFW1GlyphRenderStates.cpp
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\fw1\fw1fontwrapper\source\cfw1glyphrenderstates.cpp(682): warning C4456: declaration of 'hResult' hides previous local declaration
+  d:\everything\gtavshit\d3d11 menu\d3d11 menu\fw1\fw1fontwrapper\source\cfw1glyphrenderstates.cpp(654): note: see declaration of 'hResult'
+  CFW1GlyphProviderInterface.cpp
+  CFW1GlyphProvider.cpp
+  CFW1GlyphAtlasInterface.cpp
+  CFW1GlyphAtlas.cpp
+  CFW1FontWrapperInterface.cpp
+  CFW1FontWrapper.cpp
+  CFW1FactoryInterface.cpp
+  CFW1Factory.cpp
+  Generating Code...
+  Compiling...
+  CFW1DWriteRenderTargetInterface.cpp
+  CFW1DWriteRenderTarget.cpp
+  CFW1ColorRGBAInterface.cpp
+  CFW1ColorRGBA.cpp
+  Generating Code...
+  FW1FontWrapper.vcxproj -> D:\Everything\gtavshit\D3D11 Menu\D3D11 Menu\fw1\Debug\Win32\FW1FontWrapper.lib

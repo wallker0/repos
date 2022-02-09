@@ -1,0 +1,11 @@
+C:\Users\wallker\source\repos\inj2\injector2\bin\x86\Release\inj2.exe.config
+C:\Users\wallker\source\repos\inj2\injector2\bin\x86\Release\inj2.exe
+C:\Users\wallker\source\repos\inj2\injector2\bin\x86\Release\inj2.pdb
+C:\Users\wallker\source\repos\inj2\injector2\bin\x86\Release\inj2.xml
+C:\Users\wallker\source\repos\inj2\injector2\obj\x86\Release\inj2.Resources.resources
+C:\Users\wallker\source\repos\inj2\injector2\obj\x86\Release\inj2.vbproj.GenerateResource.cache
+C:\Users\wallker\source\repos\inj2\injector2\obj\x86\Release\inj2.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\inj2\injector2\obj\x86\Release\inj2.exe
+C:\Users\wallker\source\repos\inj2\injector2\obj\x86\Release\inj2.xml
+C:\Users\wallker\source\repos\inj2\injector2\obj\x86\Release\inj2.pdb
+C:\Users\wallker\source\repos\inj2\injector2\obj\x86\Release\inj2.vbprojAssemblyReference.cache

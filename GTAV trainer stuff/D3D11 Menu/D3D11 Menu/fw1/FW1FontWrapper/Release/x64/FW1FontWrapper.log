@@ -1,0 +1,38 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  FW1Precompiled.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  CFW1ColorRGBA.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  CFW1ColorRGBAInterface.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  CFW1DWriteRenderTarget.cpp
+  CFW1DWriteRenderTargetInterface.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  CFW1Factory.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  CFW1FactoryInterface.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  CFW1FontWrapper.cpp
+  CFW1FontWrapperInterface.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  CFW1GlyphAtlas.cpp
+  CFW1GlyphAtlasInterface.cpp
+  CFW1GlyphProvider.cpp
+  CFW1GlyphProviderInterface.cpp
+  CFW1GlyphRenderStates.cpp
+  CFW1GlyphRenderStatesInterface.cpp
+  CFW1GlyphSheet.cpp
+Source\CFW1GlyphRenderStates.cpp(682): warning C4456: declaration of 'hResult' hides previous local declaration
+  Source\CFW1GlyphRenderStates.cpp(654): note: see declaration of 'hResult'
+  CFW1GlyphSheetInterface.cpp
+  CFW1GlyphVertexDrawer.cpp
+  CFW1GlyphVertexDrawerInterface.cpp
+  CFW1StateSaver.cpp
+  CFW1TextGeometry.cpp
+  CFW1TextGeometryInterface.cpp
+  CFW1TextRenderer.cpp
+  CFW1TextRendererInterface.cpp
+  FW1FontWrapper.cpp
+  FW1FontWrapper.vcxproj -> D:\Everything\gtavshit\D3D11 Menu\D3D11 Menu\fw1\Release\x64\FW1FontWrapper.lib

@@ -1,0 +1,10 @@
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\bin\x64\Release\procl.exe.config
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\bin\x64\Release\procl.exe
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\bin\x64\Release\procl.pdb
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\bin\x64\Release\procl.xml
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\obj\x64\Release\procl.Resources.resources
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\obj\x64\Release\proclauncher.vbproj.GenerateResource.cache
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\obj\x64\Release\proclauncher.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\obj\x64\Release\procl.exe
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\obj\x64\Release\procl.xml
+C:\Users\wallker\source\repos\ayyy\ayyyyyyyyyyyyyy\obj\x64\Release\procl.pdb

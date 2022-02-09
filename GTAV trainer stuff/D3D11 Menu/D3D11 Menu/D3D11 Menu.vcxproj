@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{686EA9A9-5A34-476E-8781-E16489F2C955}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>D3D11Menu</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <ReferencePath>$(ReferencePath)</ReferencePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
+    <SourcePath>$(SourcePath)</SourcePath>
+    <ExecutablePath>$(ExecutablePath)</ExecutablePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <ReferencePath>$(ReferencePath)</ReferencePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
+    <SourcePath>$(SourcePath)</SourcePath>
+    <ExecutablePath>$(ExecutablePath)</ExecutablePath>
+    <TargetName>3</TargetName>
+    <TargetExt>.dll</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;D3D11MENU_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;D3D11MENU_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;D3D11MENU_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;D3D11MENU_EXPORTS;BEA_USE_STDCALL;BEA_ENGINE_STATIC;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>libMinHook-x64-v140-md.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>D:\Everything\gtavshit\D3D11 Menu\D3D11 Menu\MinHook\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="CrossMapping.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1ColorRGBA.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1ColorRGBAInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1DWriteRenderTarget.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1DWriteRenderTargetInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1Factory.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1FactoryInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1FontWrapper.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1FontWrapperInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphAtlas.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphAtlasInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphProvider.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphProviderInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphRenderStates.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphRenderStatesInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphSheet.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphSheetInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphVertexDrawer.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1GlyphVertexDrawerInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1StateSaver.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1TextGeometry.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1TextGeometryInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1TextRenderer.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\CFW1TextRendererInterface.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\FW1FontWrapper.cpp" />
+    <ClCompile Include="fw1\FW1FontWrapper\Source\FW1Precompiled.cpp" />
+    <ClCompile Include="Hooking.cpp" />
+    <ClCompile Include="JBMenu.cpp" />
+    <ClCompile Include="Log.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Memory.cpp" />
+    <ClCompile Include="NativeInvoker.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BeaEngine\include\BeaEngine.h" />
+    <ClInclude Include="BeaEngine\include\Includes\basic_types.h" />
+    <ClInclude Include="BeaEngine\include\Includes\export.h" />
+    <ClInclude Include="CrossMapping.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1ColorRGBA.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1DWriteRenderTarget.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1Factory.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1FontWrapper.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphAtlas.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphProvider.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphRenderStates.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphSheet.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1GlyphVertexDrawer.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1Object.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1StateSaver.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1TextGeometry.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\CFW1TextRenderer.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\FW1CompileSettings.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\FW1FontWrapper.h" />
+    <ClInclude Include="fw1\FW1FontWrapper\Source\FW1Precompiled.h" />
+    <ClInclude Include="Hooking.h" />
+    <ClInclude Include="JBMenu.h" />
+    <ClInclude Include="Log.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="Memory.h" />
+    <ClInclude Include="menu.h" />
+    <ClInclude Include="nativeCaller.h" />
+    <ClInclude Include="NativeInvoker.h" />
+    <ClInclude Include="natives.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="types.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="BeaEngine64.lib" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

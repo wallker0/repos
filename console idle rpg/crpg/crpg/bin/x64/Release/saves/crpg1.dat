@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clsPerson xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>rwby akane</name>
+  <hpt>1084611</hpt>
+  <hpa>1084611</hpa>
+  <level>25</level>
+  <faith>9</faith>
+  <city>kyoto</city>
+  <forca>7</forca>
+  <con>14</con>
+  <des>10</des>
+  <agi>10</agi>
+  <int>8</int>
+  <will>9</will>
+  <per>13</per>
+  <car>10</car>
+  <idade>666</idade>
+  <xpt>1677721600</xpt>
+  <xpa>1118776546</xpa>
+  <dano>111198</dano>
+  <danototal>111218</danototal>
+  <heal>111242</heal>
+  <cash>318042</cash>
+  <mhpt>6228941</mhpt>
+  <mhpa>224690</mhpa>
+  <mdmg>111212</mdmg>
+</clsPerson>

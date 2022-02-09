@@ -1,0 +1,11 @@
+C:\Users\wallker\source\repos\file sorter\profilepic\bin\x64\Release\sorter.exe.config
+C:\Users\wallker\source\repos\file sorter\profilepic\bin\x64\Release\sorter.exe
+C:\Users\wallker\source\repos\file sorter\profilepic\bin\x64\Release\sorter.pdb
+C:\Users\wallker\source\repos\file sorter\profilepic\bin\x64\Release\sorter.xml
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\sorter.vbproj.AssemblyReference.cache
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\sorter.Resources.resources
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\sorter.vbproj.GenerateResource.cache
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\sorter.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\sorter.exe
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\sorter.xml
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\sorter.pdb

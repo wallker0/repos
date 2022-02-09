@@ -1,0 +1,60 @@
+﻿  CrossMapping.cpp
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(57): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(67): warning C4244: 'return': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(80): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  CFW1ColorRGBA.cpp
+  CFW1ColorRGBAInterface.cpp
+  CFW1DWriteRenderTarget.cpp
+  CFW1DWriteRenderTargetInterface.cpp
+  CFW1Factory.cpp
+  CFW1FactoryInterface.cpp
+  CFW1FontWrapper.cpp
+  CFW1FontWrapperInterface.cpp
+  CFW1GlyphAtlas.cpp
+  CFW1GlyphAtlasInterface.cpp
+  CFW1GlyphProvider.cpp
+  CFW1GlyphProviderInterface.cpp
+  CFW1GlyphRenderStates.cpp
+  CFW1GlyphRenderStatesInterface.cpp
+  CFW1GlyphSheet.cpp
+  CFW1GlyphSheetInterface.cpp
+  CFW1GlyphVertexDrawer.cpp
+  CFW1GlyphVertexDrawerInterface.cpp
+  CFW1StateSaver.cpp
+  Compiling...
+  CFW1TextGeometry.cpp
+  CFW1TextGeometryInterface.cpp
+  CFW1TextRenderer.cpp
+  CFW1TextRendererInterface.cpp
+  FW1FontWrapper.cpp
+  FW1Precompiled.cpp
+  Hooking.cpp
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(57): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(67): warning C4244: 'return': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(80): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+Hooking.cpp(228): warning C4267: 'initializing': conversion from 'size_t' to 'INT', possible loss of data
+  JBMenu.cpp
+JBMenu.cpp(143): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'UINT32', possible loss of data
+  Log.cpp
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(57): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(67): warning C4244: 'return': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(80): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  Main.cpp
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(57): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(67): warning C4244: 'return': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(80): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  Memory.cpp
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(57): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(67): warning C4244: 'return': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(80): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  NativeInvoker.cpp
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(57): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(67): warning C4244: 'return': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\Hooking.h(80): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+d:\everything\gtavshit\d3d11 menu\d3d11 menu\main.cpp(143): warning C4789: buffer 'detourBuffer' of size 24 bytes will be overrun; 192 bytes will be written starting at offset 0
+  All 2319 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  D3D11 Menu.vcxproj -> D:\Everything\gtavshit\D3D11 Menu\x64\Release\3.dll
+  D3D11 Menu.vcxproj -> D:\Everything\gtavshit\D3D11 Menu\x64\Release\3.pdb (Full PDB)

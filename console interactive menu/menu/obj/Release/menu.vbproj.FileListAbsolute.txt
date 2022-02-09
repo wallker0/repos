@@ -1,0 +1,10 @@
+C:\Users\wallker\source\repos\menu\menu\bin\Release\menu.exe.config
+C:\Users\wallker\source\repos\menu\menu\bin\Release\menu.exe
+C:\Users\wallker\source\repos\menu\menu\bin\Release\menu.pdb
+C:\Users\wallker\source\repos\menu\menu\bin\Release\menu.xml
+C:\Users\wallker\source\repos\menu\menu\obj\Release\menu.Resources.resources
+C:\Users\wallker\source\repos\menu\menu\obj\Release\menu.vbproj.GenerateResource.Cache
+C:\Users\wallker\source\repos\menu\menu\obj\Release\menu.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\menu\menu\obj\Release\menu.exe
+C:\Users\wallker\source\repos\menu\menu\obj\Release\menu.xml
+C:\Users\wallker\source\repos\menu\menu\obj\Release\menu.pdb

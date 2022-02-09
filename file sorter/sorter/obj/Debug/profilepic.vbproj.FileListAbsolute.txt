@@ -1,0 +1,10 @@
+c:\users\wallker\source\repos\profilepic\profilepic\bin\Debug\profilepic.exe.config
+c:\users\wallker\source\repos\profilepic\profilepic\bin\Debug\profilepic.exe
+c:\users\wallker\source\repos\profilepic\profilepic\bin\Debug\profilepic.pdb
+c:\users\wallker\source\repos\profilepic\profilepic\bin\Debug\profilepic.xml
+c:\users\wallker\source\repos\profilepic\profilepic\obj\Debug\profilepic.Resources.resources
+c:\users\wallker\source\repos\profilepic\profilepic\obj\Debug\profilepic.vbproj.GenerateResource.Cache
+c:\users\wallker\source\repos\profilepic\profilepic\obj\Debug\profilepic.vbproj.CoreCompileInputs.cache
+c:\users\wallker\source\repos\profilepic\profilepic\obj\Debug\profilepic.exe
+c:\users\wallker\source\repos\profilepic\profilepic\obj\Debug\profilepic.xml
+c:\users\wallker\source\repos\profilepic\profilepic\obj\Debug\profilepic.pdb

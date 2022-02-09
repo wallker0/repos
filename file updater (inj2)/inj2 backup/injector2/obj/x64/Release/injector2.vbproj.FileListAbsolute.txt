@@ -1,0 +1,10 @@
+C:\Users\wallker\source\repos\injector2\injector2\bin\x64\Release\injector2.exe.config
+C:\Users\wallker\source\repos\injector2\injector2\bin\x64\Release\injector2.exe
+C:\Users\wallker\source\repos\injector2\injector2\bin\x64\Release\injector2.pdb
+C:\Users\wallker\source\repos\injector2\injector2\bin\x64\Release\injector2.xml
+C:\Users\wallker\source\repos\injector2\injector2\obj\x64\Release\injector2.Resources.resources
+C:\Users\wallker\source\repos\injector2\injector2\obj\x64\Release\injector2.vbproj.GenerateResource.Cache
+C:\Users\wallker\source\repos\injector2\injector2\obj\x64\Release\injector2.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\injector2\injector2\obj\x64\Release\injector2.exe
+C:\Users\wallker\source\repos\injector2\injector2\obj\x64\Release\injector2.xml
+C:\Users\wallker\source\repos\injector2\injector2\obj\x64\Release\injector2.pdb

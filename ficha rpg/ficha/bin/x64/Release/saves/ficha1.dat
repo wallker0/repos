@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<csaves xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>test</name>
+  <hp>148.5</hp>
+  <level>99</level>
+  <faith>99</faith>
+  <city>test</city>
+  <forca>99</forca>
+  <con>99</con>
+  <des>99</des>
+  <agi>99</agi>
+  <int>99</int>
+  <will>99</will>
+  <per>99</per>
+  <car>99</car>
+  <idade>99</idade>
+</csaves>

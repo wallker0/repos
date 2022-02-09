@@ -1,0 +1,16 @@
+C:\Users\wallker\source\repos\webscrp\webscrp\bin\x64\Release\netcoreapp3.1\webscrp.exe
+C:\Users\wallker\source\repos\webscrp\webscrp\bin\x64\Release\netcoreapp3.1\webscrp.deps.json
+C:\Users\wallker\source\repos\webscrp\webscrp\bin\x64\Release\netcoreapp3.1\webscrp.runtimeconfig.json
+C:\Users\wallker\source\repos\webscrp\webscrp\bin\x64\Release\netcoreapp3.1\webscrp.runtimeconfig.dev.json
+C:\Users\wallker\source\repos\webscrp\webscrp\bin\x64\Release\netcoreapp3.1\webscrp.dll
+C:\Users\wallker\source\repos\webscrp\webscrp\bin\x64\Release\netcoreapp3.1\webscrp.pdb
+C:\Users\wallker\source\repos\webscrp\webscrp\bin\x64\Release\netcoreapp3.1\CsvHelper.dll
+C:\Users\wallker\source\repos\webscrp\webscrp\bin\x64\Release\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\wallker\source\repos\webscrp\webscrp\obj\x64\Release\netcoreapp3.1\webscrp.csproj.AssemblyReference.cache
+C:\Users\wallker\source\repos\webscrp\webscrp\obj\x64\Release\netcoreapp3.1\webscrp.AssemblyInfoInputs.cache
+C:\Users\wallker\source\repos\webscrp\webscrp\obj\x64\Release\netcoreapp3.1\webscrp.AssemblyInfo.cs
+C:\Users\wallker\source\repos\webscrp\webscrp\obj\x64\Release\netcoreapp3.1\webscrp.csproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\webscrp\webscrp\obj\x64\Release\netcoreapp3.1\webscrp.csproj.CopyComplete
+C:\Users\wallker\source\repos\webscrp\webscrp\obj\x64\Release\netcoreapp3.1\webscrp.dll
+C:\Users\wallker\source\repos\webscrp\webscrp\obj\x64\Release\netcoreapp3.1\webscrp.pdb
+C:\Users\wallker\source\repos\webscrp\webscrp\obj\x64\Release\netcoreapp3.1\webscrp.genruntimeconfig.cache

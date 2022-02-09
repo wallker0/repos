@@ -1,0 +1,54 @@
+﻿  Base.cpp
+c:\[projetos]\wtf\wtf\Menu.h(298): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\[projetos]\wtf\wtf\Menu.h(299): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\[projetos]\wtf\wtf\Menu.h(301): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\[projetos]\wtf\wtf\Menu.h(302): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\[projetos]\wtf\wtf\Menu.h(312): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\[projetos]\wtf\wtf\Menu.h(340): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\[projetos]\wtf\wtf\Classes.h(535): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\[projetos]\wtf\wtf\Header1.h(208): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\[projetos]\wtf\wtf\Header1.h(223): warning C4018: '<': signed/unsigned mismatch
+c:\[projetos]\wtf\wtf\Header1.h(265): warning C4244: 'return': conversion from 'double' to 'FLOAT', possible loss of data
+c:\[projetos]\wtf\wtf\Header1.h(282): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\[projetos]\wtf\wtf\Header1.h(287): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\[projetos]\wtf\wtf\Header1.h(288): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%4x' requires an argument of type 'unsigned int *', but variadic argument 2 has type 'uint16 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hx' in the format string
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%4x' requires an argument of type 'unsigned int *', but variadic argument 3 has type 'uint16 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hx' in the format string
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%2x' requires an argument of type 'unsigned int *', but variadic argument 4 has type 'uint8 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hhx' in the format string
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%2x' requires an argument of type 'unsigned int *', but variadic argument 5 has type 'uint8 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hhx' in the format string
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%2x' requires an argument of type 'unsigned int *', but variadic argument 6 has type 'uint8 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hhx' in the format string
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%2x' requires an argument of type 'unsigned int *', but variadic argument 7 has type 'uint8 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hhx' in the format string
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%2x' requires an argument of type 'unsigned int *', but variadic argument 8 has type 'uint8 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hhx' in the format string
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%2x' requires an argument of type 'unsigned int *', but variadic argument 9 has type 'uint8 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hhx' in the format string
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%2x' requires an argument of type 'unsigned int *', but variadic argument 10 has type 'uint8 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hhx' in the format string
+c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): warning C4477: 'sscanf' : format string '%2x' requires an argument of type 'unsigned int *', but variadic argument 11 has type 'uint8 *'
+  c:\[projetos]\wtf\wtf\sdk\inc\ltguid.h(82): note: consider using '%hhx' in the format string
+Base.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Base.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Base.cpp(322): warning C4305: 'argument': truncation from 'int' to 'uint8'
+Base.cpp(322): warning C4309: 'argument': truncation of constant value
+Base.cpp(323): warning C4305: 'argument': truncation from 'int' to 'uint8'
+Base.cpp(323): warning C4309: 'argument': truncation of constant value
+Base.cpp(324): warning C4305: 'argument': truncation from 'int' to 'uint8'
+Base.cpp(324): warning C4309: 'argument': truncation of constant value
+Base.cpp(325): warning C4305: 'argument': truncation from 'int' to 'uint8'
+Base.cpp(325): warning C4309: 'argument': truncation of constant value
+Base.cpp(380): warning C4244: 'argument': conversion from 'float' to 'INT', possible loss of data
+Base.cpp(395): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+Base.cpp(395): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+Base.cpp(420): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+Base.cpp(420): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+  Generating code
+  All 89 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  wtf.vcxproj -> C:\[Projetos]\wtf\Release\wtf.dll
+  wtf.vcxproj -> C:\[Projetos]\wtf\Release\wtf.pdb (Full PDB)

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/y0Oig5yX6hji9L6l2UorcFlbNL9sIrc7HNW2UQBedpvtTZQ4VTPovhCq4L9Q787d3Ww2e4aenfWVXYt18dgig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wallker\\source\\repos\\c# simple webscrp\\webscrp\\webscrp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wallker\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\wallker\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512"
+  ],
+  "logs": []
+}

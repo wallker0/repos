@@ -1,0 +1,21 @@
+C:\Users\wallker\source\repos\profilepic\profilepic\bin\x64\Release\profilepic.exe.config
+C:\Users\wallker\source\repos\profilepic\profilepic\bin\x64\Release\profilepic.exe
+C:\Users\wallker\source\repos\profilepic\profilepic\bin\x64\Release\profilepic.pdb
+C:\Users\wallker\source\repos\profilepic\profilepic\bin\x64\Release\profilepic.xml
+C:\Users\wallker\source\repos\profilepic\profilepic\obj\x64\Release\profilepic.Resources.resources
+C:\Users\wallker\source\repos\profilepic\profilepic\obj\x64\Release\profilepic.vbproj.GenerateResource.Cache
+C:\Users\wallker\source\repos\profilepic\profilepic\obj\x64\Release\profilepic.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\profilepic\profilepic\obj\x64\Release\profilepic.exe
+C:\Users\wallker\source\repos\profilepic\profilepic\obj\x64\Release\profilepic.xml
+C:\Users\wallker\source\repos\profilepic\profilepic\obj\x64\Release\profilepic.pdb
+C:\Users\wallker\source\repos\file sorter\profilepic\bin\x64\Release\profilepic.exe.config
+C:\Users\wallker\source\repos\file sorter\profilepic\bin\x64\Release\profilepic.exe
+C:\Users\wallker\source\repos\file sorter\profilepic\bin\x64\Release\profilepic.pdb
+C:\Users\wallker\source\repos\file sorter\profilepic\bin\x64\Release\profilepic.xml
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\profilepic.vbproj.AssemblyReference.cache
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\profilepic.Resources.resources
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\profilepic.vbproj.GenerateResource.cache
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\profilepic.vbproj.CoreCompileInputs.cache
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\profilepic.exe
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\profilepic.xml
+C:\Users\wallker\source\repos\file sorter\profilepic\obj\x64\Release\profilepic.pdb

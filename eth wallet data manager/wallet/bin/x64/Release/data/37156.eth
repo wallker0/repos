@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clsPerson xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <addr>0xe1bc91e4c5692815b88934e3e70343fe7863cef5</addr>
+  <name>wallker</name>
+  <eth>13400</eth>
+  <weth>0</weth>
+  <pwr>500</pwr>
+</clsPerson>
